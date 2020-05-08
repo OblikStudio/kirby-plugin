@@ -1,6 +1,6 @@
 import View from "./components/View.vue";
 
-panel.plugin("getkirby/pluginkit", {
+panel.plugin("vendor/plugin", {
   views: {
     example: {
       component: View,

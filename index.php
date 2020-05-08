@@ -1,5 +1,3 @@
 <?php
 
-Kirby::plugin('getkirby/pluginkit', [
-    // plugin magic happens here
-]);
+Kirby::plugin('vendor/plugin', []);

@@ -1,5 +1,5 @@
 {
-    "name": "getkirby/pluginkit",
+    "name": "vendor/kirby-plugin",
     "description": "Kirby Example Plugin",
     "type": "kirby-plugin",
     "license": "MIT",
