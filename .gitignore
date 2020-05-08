@@ -5,7 +5,13 @@
 /node_modules
 
 # Parcel cache folder
-.cache
+/.cache
 
 # Composer files
 /vendor
+
+# Site files
+/kirby
+/media
+/site/accounts
+/site/sessions
